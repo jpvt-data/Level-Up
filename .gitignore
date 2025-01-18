@@ -3,6 +3,9 @@
 .env
 config/*.json
 
+# Exclure le fichier de log des discussions
+docs/level_up_chat_log.md
+
 # Données utilisateurs ou temporaires
 data/
 *.sqlite
