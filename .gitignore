@@ -6,6 +6,7 @@ config/*.json
 # Données utilisateurs ou temporaires
 data/
 *.sqlite
+*.sql
 
 # Dépendances locales
 node_modules/
