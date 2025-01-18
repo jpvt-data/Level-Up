@@ -1,4 +1,4 @@
-# Level-Up
+# Level Up
 
 **Level Up** est une plateforme open source conçue pour autonomiser les enfants et adolescents (âgés de 6 à 18 ans) à travers des défis pratiques et ludiques, tout en stimulant leur esprit critique.
 
